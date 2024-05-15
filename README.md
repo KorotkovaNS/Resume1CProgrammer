@@ -1,5 +1,7 @@
 #### Привет!
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](DSC05118.jpg) 
+
 Я, **Наталья Короткова**, начинающий программист 1С
 
 **Мои контакты:**
